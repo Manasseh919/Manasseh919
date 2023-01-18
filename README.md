@@ -1,16 +1,12 @@
-
-
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manasseh Ameyow</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
-<img align=“right”  alt =“coding” width=“400” src=”https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mmr1msjo56ashi93e75nny7quulrzfijj030bn9w&rid=giphy.gif&ct=g”>
+<!-- <img align="right" alt="Coding" width="400" src=“https://giphy.com/embed/qgQUggAC3Pfv687qPC”> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasseh919&label=Profile%20views&color=0e75b6&style=flat" alt="manasseh919" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasseh919" alt="manasseh919" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel and Tours**
+- 🔭 I’m currently working on **Hotel and Tours(Full Stack)**
 
 - 🌱 I’m currently learning **MERN Stack**
 

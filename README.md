@@ -18,6 +18,5 @@ Skills: REACT NATIVE / REACT / NODE JS/ EXPRESS/JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manasseh919&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Manasseh919)  
 
-![Profile views](https://gpvc.arturio.dev/Manasseh919)  
+ 

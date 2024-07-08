@@ -2,12 +2,10 @@
 
  Software Developer coding on React Native & ReactJS hoping to collaborate develop complex web/mobile applications for millions of users with React native ,React and modern technologies
 
-Skills: REACT NATIVE / REACT / NODE JS/ EXPRESS/JS / HTML / CSS
+Skills: REACT NATIVE / REACT / NODE JS/ EXPRESS/JS / NEXT JS/ TYPESCRIPT
 
-- 🔭 I’m currently working on My Final Year Project 
-- 🌱 I’m currently learning SWIFT 
+- 🔭 I’m currently doing my masters in computer science in Germany
 - 👯 I’m looking to collaborate on Software Development Projects 
-- 🤔 I’m looking for help with Backend Development 
 - 💬 Ask me about Web and Mobile Development 
 - 📫 How to reach me: manasseh919@gmail.com 
 

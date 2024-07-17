@@ -18,9 +18,6 @@ Skills: REACT NATIVE / REACT / NODE JS/ EXPRESS/JS / NEXT JS/ TYPESCRIPT
 
 
 [![](https://visitcount.itsvg.in/api?id=Manasseh919&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Manasseh919&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
 
 
  

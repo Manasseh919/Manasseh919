@@ -2,7 +2,7 @@
 
  Software Developer coding on React Native & ReactJS hoping to collaborate develop complex web/mobile applications for millions of users with React native ,React and modern technologies
 
-Skills: REACT NATIVE / REACT / NODE JS/ EXPRESS/JS / NEXT JS/ TYPESCRIPT
+Skills: REACT NATIVE / REACT / NODE JS/ EXPRESS/JS / NEXT JS/ TYPESCRIPT/ Mongo db
 
 - 🔭 I’m currently doing my masters in computer science in Germany
 - 👯 I’m looking to collaborate on Software Development Projects 

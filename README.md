@@ -7,7 +7,7 @@ Skills: REACT NATIVE / REACT / NODE JS/ EXPRESS/JS / NEXT JS/ TYPESCRIPT/ Mongo 
 - 🔭 I’m currently doing my masters in computer science in Germany
 - 👯 I’m looking to collaborate on Software Development Projects 
 - 💬 Ask me about Web and Mobile Development 
-- 📫 How to reach me: manasseh919@gmail.com 
+- 📫 Reach me on: manasseh919@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manasseh919)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/manasseh-ameyow-6a3298203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/manasseh.20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://manasseh.netlify.app/)  
